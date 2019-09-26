@@ -1,0 +1,1 @@
+[22-Oct-2015 23:03:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/comfort/public_html/wp-content/plugins/hello.php on line 60

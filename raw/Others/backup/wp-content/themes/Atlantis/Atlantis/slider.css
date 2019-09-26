@@ -1,0 +1,33 @@
+/* STYLES FOR THE IMAGE DESCRIPTIONS IN THE PIECEMAKER IMAGE GALLERY BY MODULARWEB */
+
+headline {
+	display: block;
+	font-size: 18;
+	color: #EF4A73;
+}
+
+paragraph {
+	display: block;
+	color: #ffffff;
+	font-size: 10;
+}
+
+inline {
+	display: inline;
+	color: #ffffff;
+}
+
+break {
+	font-size: 7;
+	display:block;
+}
+
+ a {
+	color: #EF4A73;
+	display: inline;
+}
+
+ a:hover {
+	color: #000000;
+	display: inline;
+}

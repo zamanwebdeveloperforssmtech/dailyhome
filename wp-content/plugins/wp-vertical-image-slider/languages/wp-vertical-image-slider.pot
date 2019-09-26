@@ -1,0 +1,448 @@
+# Copyright (C) 2019 WordPress vertical Thumbnail Slider
+# This file is distributed under the same license as the WordPress vertical Thumbnail Slider package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress vertical Thumbnail Slider 1.2.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-vertical-image-"
+"slider\n"
+"POT-Creation-Date: 2019-06-07 17:15:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-vertical-images-thumbnail-slider.php:300
+msgid "Vertical Image Slider is active but does not have write permission on"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:300
+msgid "directory.Please allow write permission."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:307
+msgid ""
+"Vertical Image Slider is active but plugin does not have permission to "
+"create directory"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:307
+msgid ""
+"Please create Vertical Image Slider directory inside upload directory and "
+"allow write permission."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:318
+msgid "Vertical Thumbnail Slider"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:319
+msgid "Slider Setting"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:320
+msgid "Manage Images"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:321
+msgid "Preview Slider"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:346
+#: wp-vertical-images-thumbnail-slider.php:874
+#: wp-vertical-images-thumbnail-slider.php:1813
+msgid "Access Denied"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:421
+msgid "Settings saved successfully."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:474
+msgid "Slider Settings"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:481
+msgid "Responsive Slider?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:486
+#: wp-vertical-images-thumbnail-slider.php:676
+msgid "Yes"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:486
+msgid "No"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:496
+msgid "Link images with url ?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:501
+msgid "Add link to image?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:511
+msgid "Auto Scroll ?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:517
+msgid "Auto"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:517
+msgid "Scroll By Left & Right Arrow "
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:517
+msgid "Scroll Auto With Arrow"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:527
+msgid "Speed"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:543
+msgid "Pause"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:549
+msgid "Example 1000"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:554
+msgid "The amount of time (in ms) between each auto transition"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:558
+msgid "Circular Slider?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:574
+msgid "Slider Background color"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:590
+msgid "Visible"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:596
+msgid "This will decide your slider height automatically"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:601
+msgid "Specify the number of items visible at all times within the slider."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:607
+msgid "Scroll"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:618
+msgid ""
+"You can specify the number of items to scroll when you click the next or "
+"prev buttons."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:623
+msgid "Pause On Mouse Over?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:639
+msgid "Image Height"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:655
+msgid "Image Width"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:671
+msgid "Physically resize images?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:676
+msgid "Resize using css"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:677
+msgid "If you choose "
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:677
+msgid "resize using css"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:677
+msgid "the quality will be good but some times large images takes time to load"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:686
+msgid "Image Margin"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:692
+msgid "Gap between two images"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:701
+#: wp-vertical-images-thumbnail-slider.php:1591
+msgid "Save Changes"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:701
+#: wp-vertical-images-thumbnail-slider.php:1591
+msgid "Cancel"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:817
+msgid "Access All Themes In One Price"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:827
+#: wp-vertical-images-thumbnail-slider.php:1187
+msgid "Google For Business Coupon"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:925
+msgid "UPGRADE TO PRO VERSION"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:928
+msgid "Images"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:928
+msgid "Add New"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:932
+#: wp-vertical-images-thumbnail-slider.php:1135
+msgid "Bulk Actions"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:933
+#: wp-vertical-images-thumbnail-slider.php:1060
+#: wp-vertical-images-thumbnail-slider.php:1106
+#: wp-vertical-images-thumbnail-slider.php:1136
+msgid "Delete"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:935
+#: wp-vertical-images-thumbnail-slider.php:1138
+msgid "Apply"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1002
+#: wp-vertical-images-thumbnail-slider.php:1004
+msgid "Search"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1005
+msgid "Reset Search"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1030
+msgid "Current slider setting - Total visible images"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1031
+msgid "Please add atleast"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1031
+msgid "images"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1041
+#: wp-vertical-images-thumbnail-slider.php:1044
+#: wp-vertical-images-thumbnail-slider.php:1046
+#: wp-vertical-images-thumbnail-slider.php:1100
+msgid "Title"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1051
+#: wp-vertical-images-thumbnail-slider.php:1054
+#: wp-vertical-images-thumbnail-slider.php:1056
+#: wp-vertical-images-thumbnail-slider.php:1104
+msgid "Published On"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1059
+#: wp-vertical-images-thumbnail-slider.php:1105
+msgid "Edit"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1099
+msgid "Select Record"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1101
+msgid "Image"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1105
+msgid "Edit Record"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1105
+msgid "edit"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1106
+msgid "Delete Record"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1106
+msgid "delete"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1115
+msgid "No Record"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1115
+msgid "No Images Found"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1151
+msgid "Are you sure you want to delete selected images?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1159
+msgid "Are you sure you want to delete this image?"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1168
+#: wp-vertical-images-thumbnail-slider.php:2246
+msgid "To print this slider into WordPress Post/Page use below Short code"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1171
+#: wp-vertical-images-thumbnail-slider.php:2249
+msgid ""
+"To print this slider into WordPress theme/template PHP files use below php "
+"code"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1178
+msgid "Recommended WordPress Themes"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1228
+#: wp-vertical-images-thumbnail-slider.php:1311
+#: wp-vertical-images-thumbnail-slider.php:1411
+#: wp-vertical-images-thumbnail-slider.php:1446
+#: wp-vertical-images-thumbnail-slider.php:1669
+#: wp-vertical-images-thumbnail-slider.php:1728
+msgid "Access Denied. Please contact your administrator."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1285
+msgid "Image updated successfully."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1294
+msgid "Error while updating image."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1374
+msgid "New image added successfully."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1383
+msgid "Error while adding image."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1432
+msgid "Update Image"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1454
+msgid "Add Image"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1463
+msgid "Upload Image"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1466
+msgid "Current Image"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1471
+msgid "Click Here to Upload"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1497
+msgid "Set Image"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1551
+msgid "Invalid image selection."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1566
+msgid "Image Title"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1572
+msgid "Used in image alt for seo"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1576
+msgid "Image Url"
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1576
+msgid "On click redirect to this url."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1582
+msgid "On image click users will redirect to this url."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1630
+msgid "Please select file."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1699
+msgid "Image deleted successfully."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1709
+#: wp-vertical-images-thumbnail-slider.php:1775
+msgid "Error while deleting image."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1764
+msgid "Selected images deleted successfully."
+msgstr ""
+
+#: wp-vertical-images-thumbnail-slider.php:1821
+msgid "Slider Preview"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WordPress vertical Thumbnail Slider"
+msgstr ""
+
+#. #-#-#-#-#  wp-vertical-image-slider.pot (WordPress vertical Thumbnail Slider 1.2.9)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-vertical-image-slider.pot (WordPress vertical Thumbnail Slider 1.2.9)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid ""
+"http://www.i13websolution.com/wordpress-pro-plugins/wordpress-vertical-image-"
+"slider-pro-plugin.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is beautiful thumbnail image slider plugin for WordPress.Add any number "
+"of images from admin panel."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "I Thirteen Web Solution"
+msgstr ""

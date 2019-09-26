@@ -1,0 +1,183 @@
+/* Slider */
+#feature{
+	width:1000px;
+	height:355px;
+	float:left;
+	background:url(images/shadow.png) bottom no-repeat;
+
+}
+#slidearea{
+	margin:0px 0px 0px 0px;
+
+}
+#flashcontent{
+	margin:0px 0px 0px 0px;
+	width:1000px;
+	height:420px;
+	outline:none;
+}
+
+/* welcome */
+
+#welcome{
+	width:960px;
+	margin:10px 0px 20px 0px;
+	background:#f2f2f2;
+	border:1px solid #e3e3e3;
+	padding:10px 20px;
+
+}
+.rounded{
+
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+#welcome p{
+	font-size:18px;
+	color:#434141;
+	text-shadow:1px 1px 0px #fff;
+	font-family:georgia;
+	line-height:150%;
+}
+
+/* Home posts */
+#fullcontent{
+	padding:20px 20px;
+}
+.box{
+	width:325px;
+	float:left;
+	clear:left;
+	margin-right:20px;
+	margin-bottom:20px;
+}
+.lastbox{
+	float:right;
+	clear:right;
+	margin-right:0px!important;
+}
+.box h2{
+	font-size:16px;
+	font-family:Arial,sans serif;
+	padding:10px 0px 5px 0px;
+}
+
+.box h2 a:link, .box h2 a:visited{
+	color:#1d4161;
+	
+}
+.boxim{
+	width:303px;
+	height:125px;
+	background:#eee;
+	padding:10px;
+	border:1px solid #E3E3E3;
+}
+
+
+
+/* Footer widgets */
+
+		
+
+.bottomcover{
+	margin:0px auto;
+	background:#34242c ;
+}	
+#bottom{
+	width:1000px;
+	margin:0px auto;
+
+}
+
+h3.bothead{
+
+	height:20px;
+	font-size:15px;
+	padding:10px 0px 10px 10px;
+	color:#fff;
+
+	
+}
+.botwid{
+	float:left;
+	width:230px;
+	padding-bottom:10px;
+	font-size:12px;
+	font-family:Arial,Tahoma,Century gothic,sans-serif;
+	margin:10px 0px 0px 15px;
+	color:#ddd;
+	}
+.botwid ul {
+	list-style-type: none;
+	margin:  0px;
+	padding: 0px 5px 5px 5px ;
+
+	}
+.botwid li{
+	list-style-type: none;
+	margin: 0 ;
+	padding: 0;
+
+	}
+.botwid ul ul  {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+	background-repeat:no-repeat;
+		}
+
+.botwid ul ul ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+	}
+
+.botwid ul ul ul ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	border:0;
+
+	}
+
+.botwid ul li {
+	height:100%;
+	line-height:18px;
+	clear: left;	
+	width: 220px;
+	list-style-type: none;
+	}
+	
+.botwid ul li a:link, .botwid ul li a:visited  {
+	
+	color: #9F778B;
+	text-decoration: none;
+	padding: 5px 0px 5px 5px;
+	display:block;
+	border-bottom:1px solid #3F3339;
+
+	}
+
+.botwid ul li a:hover{
+
+	color: #fff;
+	}
+
+.botwid p{
+	padding: 7px 10px;
+	margin:0;
+	}
+
+.botwid table {
+	width:100%;
+	text-align:center;
+	color:#787d7f;
+	}			
+
+
+
+

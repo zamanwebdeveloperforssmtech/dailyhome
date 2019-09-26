@@ -1,0 +1,680 @@
+# Copyright (C) 2019 Photo Gallery Slideshow & Masonry Tiled Gallery
+# This file is distributed under the same license as the Photo Gallery Slideshow & Masonry Tiled Gallery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo Gallery Slideshow & Masonry Tiled Gallery 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-responsive-"
+"photo-gallery\n"
+"POT-Creation-Date: 2019-06-22 03:10:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-responsive-photo-gallery.php:493
+msgid "Photo Gallery Plugin is active but does not have write permission on"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:493
+msgid " directory.Please allow write permission."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:502
+msgid ""
+"Photo Gallery Plugin is active but plugin does not have permission to create "
+"directory"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:502
+msgid ""
+".Please create post-slider-carousel directory inside upload directory and "
+"allow write permission."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:514
+msgid "Photo Slideshow & Masonry Gallery"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:515
+msgid "Slideshow Settings"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:516
+msgid "Slideshow Images"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:517
+msgid "Slideshow Preview"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:519
+msgid "Masonry Gallery Settings"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:520
+msgid "Masonry Gallery Media"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:521 wp-responsive-photo-gallery.php:6120
+msgid "Masonry Gallery Preview"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:572 wp-responsive-photo-gallery.php:1085
+#: wp-responsive-photo-gallery.php:2050 wp-responsive-photo-gallery.php:2945
+#: wp-responsive-photo-gallery.php:3323 wp-responsive-photo-gallery.php:6051
+msgid "Access Denied"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:621 wp-responsive-photo-gallery.php:2984
+msgid "Settings saved successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:653 wp-responsive-photo-gallery.php:1116
+#: wp-responsive-photo-gallery.php:2058 wp-responsive-photo-gallery.php:3022
+#: wp-responsive-photo-gallery.php:3356 wp-responsive-photo-gallery.php:4285
+#: wp-responsive-photo-gallery.php:6118
+msgid "UPGRADE TO PRO VERSION"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:675 wp-responsive-photo-gallery.php:3042
+msgid "Gallery Settings"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:682
+msgid "Settings"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:687
+msgid "Transition Speed"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:697
+msgid "Transition Interval"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:707
+msgid "Show Slider Navigation arrows"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:711 wp-responsive-photo-gallery.php:745
+#: wp-responsive-photo-gallery.php:759 wp-responsive-photo-gallery.php:773
+#: wp-responsive-photo-gallery.php:787 wp-responsive-photo-gallery.php:799
+#: wp-responsive-photo-gallery.php:843 wp-responsive-photo-gallery.php:865
+msgid "Select"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:712 wp-responsive-photo-gallery.php:760
+#: wp-responsive-photo-gallery.php:788 wp-responsive-photo-gallery.php:800
+#: wp-responsive-photo-gallery.php:866
+msgid "Yes"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:713 wp-responsive-photo-gallery.php:761
+#: wp-responsive-photo-gallery.php:789 wp-responsive-photo-gallery.php:801
+#: wp-responsive-photo-gallery.php:867 wp-responsive-photo-gallery.php:3150
+#: wp-responsive-photo-gallery.php:3178
+msgid "No"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:721
+msgid "Width"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:731
+msgid "Height"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:741
+msgid "Scale"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:746 wp-responsive-photo-gallery.php:844
+msgid "Crop"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:747 wp-responsive-photo-gallery.php:845
+msgid "Fit"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:755
+msgid "Pan Images"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:769
+msgid "Pan Style"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:774
+msgid "Drag"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:775
+msgid "Track"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:783
+msgid "Show Thumbnail Gallery"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:796
+msgid "Auto play?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:809
+msgid "Thumbnail Width"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:819
+msgid "Thumbnail Height"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:829
+msgid "Thumbnail Opacity"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:839
+msgid "Thumbnail Scale"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:853
+msgid "Thumbnail Gap"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:862
+msgid "Show Infobar?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:875
+msgid "Infobar Opacity"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:886 wp-responsive-photo-gallery.php:1826
+#: wp-responsive-photo-gallery.php:3191 wp-responsive-photo-gallery.php:4924
+#: wp-responsive-photo-gallery.php:5147 wp-responsive-photo-gallery.php:5339
+msgid "Save Changes"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:890 wp-responsive-photo-gallery.php:3193
+#: wp-responsive-photo-gallery.php:4926 wp-responsive-photo-gallery.php:5149
+#: wp-responsive-photo-gallery.php:5341
+msgid "Cancel"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:998 wp-responsive-photo-gallery.php:1395
+#: wp-responsive-photo-gallery.php:1876 wp-responsive-photo-gallery.php:3249
+#: wp-responsive-photo-gallery.php:3677 wp-responsive-photo-gallery.php:5445
+msgid "Access All Themes In One Price"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1007 wp-responsive-photo-gallery.php:1404
+#: wp-responsive-photo-gallery.php:3258 wp-responsive-photo-gallery.php:3686
+#: wp-responsive-photo-gallery.php:5454
+msgid "Google For Business"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1144
+msgid "Images"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1144 wp-responsive-photo-gallery.php:3384
+msgid "Add New"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1150 wp-responsive-photo-gallery.php:1349
+#: wp-responsive-photo-gallery.php:3393 wp-responsive-photo-gallery.php:3615
+msgid "Bulk Actions"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1151 wp-responsive-photo-gallery.php:1278
+#: wp-responsive-photo-gallery.php:1322 wp-responsive-photo-gallery.php:1350
+#: wp-responsive-photo-gallery.php:3541 wp-responsive-photo-gallery.php:3589
+#: wp-responsive-photo-gallery.php:3616
+msgid "Delete"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1153 wp-responsive-photo-gallery.php:1353
+#: wp-responsive-photo-gallery.php:3395 wp-responsive-photo-gallery.php:3619
+msgid "Apply"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1215 wp-responsive-photo-gallery.php:1217
+#: wp-responsive-photo-gallery.php:3461 wp-responsive-photo-gallery.php:3463
+msgid "Search"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1218 wp-responsive-photo-gallery.php:3464
+msgid "Reset Search"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1249 wp-responsive-photo-gallery.php:1252
+#: wp-responsive-photo-gallery.php:1254 wp-responsive-photo-gallery.php:3494
+#: wp-responsive-photo-gallery.php:3497 wp-responsive-photo-gallery.php:3499
+#: wp-responsive-photo-gallery.php:3578
+msgid "Id"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1259 wp-responsive-photo-gallery.php:1262
+#: wp-responsive-photo-gallery.php:1264 wp-responsive-photo-gallery.php:1316
+#: wp-responsive-photo-gallery.php:3516 wp-responsive-photo-gallery.php:3519
+#: wp-responsive-photo-gallery.php:3521 wp-responsive-photo-gallery.php:3582
+msgid "Title"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1269 wp-responsive-photo-gallery.php:1272
+#: wp-responsive-photo-gallery.php:1274 wp-responsive-photo-gallery.php:1320
+#: wp-responsive-photo-gallery.php:3530 wp-responsive-photo-gallery.php:3533
+#: wp-responsive-photo-gallery.php:3535 wp-responsive-photo-gallery.php:3587
+msgid "Published On"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1277 wp-responsive-photo-gallery.php:1321
+#: wp-responsive-photo-gallery.php:3540 wp-responsive-photo-gallery.php:3588
+msgid "Edit"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1314
+msgid "Select Record"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1315
+msgid "ID"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1331
+msgid "No Images Found"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1366
+msgid "Are you sure you want to delete selected images"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1374
+msgid "Are you sure you want to delete this image ?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1384 wp-responsive-photo-gallery.php:2272
+msgid ""
+"To print this slideshow gallery into WordPress Post/Page use below Short code"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1387 wp-responsive-photo-gallery.php:2275
+msgid ""
+"To print this slideshow gallery into WordPress theme/template PHP files use "
+"below php code"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1443 wp-responsive-photo-gallery.php:1526
+#: wp-responsive-photo-gallery.php:1624 wp-responsive-photo-gallery.php:1658
+#: wp-responsive-photo-gallery.php:1919 wp-responsive-photo-gallery.php:1976
+#: wp-responsive-photo-gallery.php:3794 wp-responsive-photo-gallery.php:3865
+#: wp-responsive-photo-gallery.php:3952 wp-responsive-photo-gallery.php:4024
+#: wp-responsive-photo-gallery.php:4116 wp-responsive-photo-gallery.php:4192
+#: wp-responsive-photo-gallery.php:4297 wp-responsive-photo-gallery.php:4343
+#: wp-responsive-photo-gallery.php:5489 wp-responsive-photo-gallery.php:5554
+msgid "Access Denied. Please contact your administrator."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1501 wp-responsive-photo-gallery.php:4003
+msgid "Image updated successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1510
+msgid "Error while updating image."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1645 wp-responsive-photo-gallery.php:4323
+msgid "Update Image"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1668
+msgid "Add Image"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1677
+msgid "Upload Image"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1680
+msgid "Current Image :"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1685
+msgid "Click Here to upload"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1705
+msgid "WP Media Uploader"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1711
+msgid "Set Image"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1764
+msgid "Invalid image selection"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1800 wp-responsive-photo-gallery.php:5079
+msgid "Image Title"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1806
+msgid "Used in image alt for seo"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1810
+msgid "Image Url"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1810
+msgid "On click redirect to this url."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1816
+msgid "On image click users will redirect to this url."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1865
+msgid "Please select file"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1947
+msgid "Image deleted successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:1957
+msgid "Error while deleting image."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:2011
+msgid "Selected images deleted successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:2060
+msgid "Slider Preview"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:2756 wp-responsive-photo-gallery.php:5927
+#: wp-responsive-photo-gallery.php:6293
+msgid "&laquo;"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:2757 wp-responsive-photo-gallery.php:5928
+#: wp-responsive-photo-gallery.php:6294
+msgid "&raquo;"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3053
+msgid "Gallery Background color"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3072
+msgid "Max Image Height"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3092
+msgid "Image Margin"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3101
+msgid "Gap between two images"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3111
+msgid "Page Size"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3132
+msgid "Show Caption On Hover ?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3143 wp-responsive-photo-gallery.php:3171
+msgid "yes"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3160
+msgid "Show Icon On Hover ?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3384
+msgid "Media"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3394
+msgid "delete"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3504 wp-responsive-photo-gallery.php:3507
+#: wp-responsive-photo-gallery.php:3509 wp-responsive-photo-gallery.php:4360
+msgid "Media Type"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3597
+msgid "No Record"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3597
+msgid "No Media Found"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3634
+msgid "Are you sure you want to delete selected media ?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3643
+msgid "Are you sure you want to delete this media ?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3657 wp-responsive-photo-gallery.php:6408
+msgid "To print this masonry gallery into WordPress Post/Page use below code"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3663 wp-responsive-photo-gallery.php:6413
+msgid ""
+"To print this masonry gallery into WordPress theme/template PHP files use "
+"below code"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3843
+msgid "Video updated successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3850 wp-responsive-photo-gallery.php:3914
+msgid "Error while adding video"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:3908
+msgid "New video added successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4010 wp-responsive-photo-gallery.php:4077
+msgid "Error while adding image"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4069
+msgid "New image added successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4169
+msgid "Link updated successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4177 wp-responsive-photo-gallery.php:4242
+msgid "Error while adding link"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4234
+msgid "New link added successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4351
+msgid "Add Media"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4361
+msgid "Choose Media Type"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4366
+msgid "Image"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4367
+msgid "Video"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4368
+msgid "Link"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4429
+msgid "Video Information"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4430
+msgid "Choose Video Site"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4436
+msgid "Youtube"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4439
+msgid "DailyMotion"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4446
+msgid "Video Url"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4455
+msgid "Please do not use youtube.be, instead of use youtube.com"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4462
+msgid "Video Thumbnail Information"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4467 wp-responsive-photo-gallery.php:4941
+#: wp-responsive-photo-gallery.php:5164
+msgid "Current Image"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4480
+msgid "Click Here to get video information and thumbnail"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4491
+msgid "Click Here to upload custom video thumbnail"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4818 wp-responsive-photo-gallery.php:5044
+#: wp-responsive-photo-gallery.php:5265
+msgid "Invalid image selection."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4853
+msgid "Video Title"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4854 wp-responsive-photo-gallery.php:5080
+msgid "Used into lightbox"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4868
+msgid "Video Title Url"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4869 wp-responsive-photo-gallery.php:5095
+msgid "click on title redirect to this url.Used in lightbox for video title"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4887
+msgid "Play Video In Lightbox?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4888
+msgid "show video in lightbox or redirect?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4903
+msgid "Show Video In Lightbox?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4936 wp-responsive-photo-gallery.php:5159
+msgid "Image Information"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:4961 wp-responsive-photo-gallery.php:5183
+msgid "Click Here to upload Image"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5094
+msgid "Image Title Url"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5114
+msgid "Show Image In Lightbox?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5115
+msgid "show image in lightbox or redirect ?"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5300
+msgid "Link Title"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5300
+msgid "Used into Caption"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5314
+msgid "Link Url"
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5315
+msgid "click on image will redirect to this url."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5529
+msgid "Video deleted successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5536
+msgid "Error while deleting video."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5604
+msgid "selected media deleted successfully."
+msgstr ""
+
+#: wp-responsive-photo-gallery.php:5612
+msgid "Error while deleting videos."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Photo Gallery Slideshow & Masonry Tiled Gallery"
+msgstr ""
+
+#. #-#-#-#-#  wp-responsive-photo-gallery.pot (Photo Gallery Slideshow & Masonry Tiled Gallery 1.0.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-responsive-photo-gallery.pot (Photo Gallery Slideshow & Masonry Tiled Gallery 1.0.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid ""
+"http://www.i13websolution.com/wordpress-responsive-photo-gallery-pro-plugin."
+"html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is beautiful masonry tiled gallery and photo gallery slideshow plugin "
+"for wordPress blogs and sites.Admin can manages any number of images for "
+"photo slideshow and unlimited media into the masonry gallery."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "I Thirteen Web Solution"
+msgstr ""
