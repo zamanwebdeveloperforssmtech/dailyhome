@@ -40,7 +40,7 @@
         </div><!-- .logo -->
 
         <div class="header-right" align="right">        	
-        	Phone: 88-02-9033553, Cell: 88-01736111222 <br><br>E-mail : co.smzahid@gmail.com
+        	Phone: 88-02-9033553, Cell: 88-01736111222 <br><br>E-mail : info@dailyhome.com
         </div><!-- .header-right -->
         
     </div><!-- #header -->
